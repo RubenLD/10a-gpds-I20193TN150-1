@@ -1,3 +1,3 @@
-const a = ()=>{
+const algo = ()=>{}
 
-}
+const consultar = ()=>{}
